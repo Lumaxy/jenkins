@@ -12,5 +12,4 @@ public interface IActionsPuissance4 {
 	public boolean verifierImagePlateauVide();
 	public boolean accessibiliteBoutonAjoutColonne(int indexColonne);
 	void attendre(long duree);
-	void push();
 }
